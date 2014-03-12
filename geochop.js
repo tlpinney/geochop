@@ -32,7 +32,7 @@ if (argv.f) {
   
 
 } else { 
-  console.log("Usage: unzip -p allCountries.zip | node geochop -f <filterfile>");
+  console.log("Usage: unzip -p allCountries.zip | node geochop.js -f <filterfile>");
   console.log("<filterfile> contains a GeoJSON geometry to filter on");
 }
 
