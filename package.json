@@ -1,0 +1,15 @@
+{ 
+  "name": "geochop",
+  "version": "0.1.0",
+  "main": "geochop.js",
+  "author": "Travis L Pinney <travis.pinney@gmail.com> (https://www.github.com/tlpinney)", 
+  "license": "Apache 2.0",
+  "dependencies" : { 
+    "terraformer" : "1.0.3",
+    "minimist": "0.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tlpinney/geochop.git"
+  }
+}
